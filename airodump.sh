@@ -8,4 +8,4 @@ macchanger --mac 00:11:22:33:44:55 wlan0
 
 airmon-ng start wlan0
 
-airodump-ng mon0
+airodump-ng Wlan0mon
